@@ -8,7 +8,7 @@ const CONFIG = {
   CONTRACT_ADDRESS: "test",
   
   // The URL where the "Buy $WICK" button should link to
-  BUY_BUTTON_URL: "https://raydium.io/swap",
+  BUY_BUTTON_URL: "https://x.com/KeanuReevesCF",
   
   // The URL for the DexScreener link
   DEXSCREENER_URL: "https://dexscreener.com",
