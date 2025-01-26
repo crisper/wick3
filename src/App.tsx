@@ -5,7 +5,7 @@ import { Copy } from 'lucide-react';
 // Update these values to customize the website
 const CONFIG = {
   // The contract address for your token
-  CONTRACT_ADDRESS: "84xZnQMvGTVYbxiJnhnBmN9gGbBN5RzUxVN9dMHQS8Zh",
+  CONTRACT_ADDRESS: "test",
   
   // The URL where the "Buy $WICK" button should link to
   BUY_BUTTON_URL: "https://raydium.io/swap",
